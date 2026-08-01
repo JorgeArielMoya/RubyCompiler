@@ -17,8 +17,7 @@ Un intérprete y analizador de código Ruby desarrollado completamente en **Pyth
 - 🔤 Manejo de cadenas (Strings)
 - ➕ Operaciones básicas (aritméticas y lógicas)
 - 🔀 Estructuras condicionales (`if`, `elsif`, `else`)
-- 🔁 Bucle `for`
-- 🔄 Bucle `while`
+- 🔁 Bucles (`for`, `while`)
 
 ---
 
