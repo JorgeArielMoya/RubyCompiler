@@ -14,8 +14,6 @@ Un intérprete y analizador de código Ruby desarrollado completamente en **Pyth
 
 ## ✅ Características Soportadas
 
-Actualmente el intérprete implementa las siguientes funcionalidades del lenguaje Ruby:
-
 - 📌 Tipos de datos
 - 🔤 Manejo de cadenas (Strings)
 - ➕ Operaciones básicas (aritméticas y lógicas)
