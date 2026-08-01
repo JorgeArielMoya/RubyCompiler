@@ -8,7 +8,6 @@ Un intérprete y analizador de código Ruby desarrollado completamente en **Pyth
 
 * **Python 3** (Lenguaje principal de desarrollo y lógica del compilador)
 * **Tkinter / PyQt** (Framework de interfaz gráfica para el entorno IDE)
-* **Arquitectura de Compiladores** (Lexer, Parser, Análisis Semántico y Evaluador basados en AST)
 
 ---
 
